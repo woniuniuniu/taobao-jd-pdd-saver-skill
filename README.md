@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner-v2.webp" alt="🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD 多平台省钱 Skill：让 AI 在你手机 App 里挨个查，告诉你哪个平台、哪家店、到手多少钱" width="100%">
+  <img src="docs/assets/banner-v3.webp" alt="🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD 最爽最偷懒的省钱 Skill：让 AI 在你手机 App 里挨个查，告诉你哪个平台、哪家店、到手多少钱" width="100%">
 </p>
 
 <h1 align="center">🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD<br>多平台省钱 Skill</h1>
