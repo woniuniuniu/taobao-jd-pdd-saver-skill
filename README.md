@@ -2,7 +2,7 @@
   <img src="docs/assets/banner-v3.webp" alt="🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD 最爽最偷懒的省钱 Skill：让 AI 在你手机 App 里挨个查，告诉你哪个平台、哪家店、到手多少钱" width="100%">
 </p>
 
-<h1 align="center">🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD<br>多平台省钱 Skill</h1>
+<h1 align="center">🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD<br>最爽最偷懒的省钱 Skill</h1>
 
 <p align="center"><b>让 AI 在你手机 App 里挨个查价，告诉你哪个平台、哪家店、到手多少钱。</b></p>
 
