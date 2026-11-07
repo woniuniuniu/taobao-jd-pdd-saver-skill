@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/assets/banner-v3.webp" alt="🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD 最爽最偷懒的省钱 Skill：让 AI 在你手机 App 里挨个查，告诉你哪个平台、哪家店、到手多少钱" width="100%">
+  <img src="docs/assets/banner-v3.webp" alt="蜗牛最爽最偷懒的省钱 Skill：让 AI 在你手机 App 里挨个查，告诉你哪个平台、哪家店、到手多少钱" width="100%">
 </p>
 
-<h1 align="center">🍑 TB · 🐶 JD · 🐱 TM · 🔪 PDD<br>最爽最偷懒的省钱 Skill</h1>
+<h1 align="center">蜗牛最爽最偷懒的省钱 Skill</h1>
 
 <p align="center"><b>让 AI 在你手机 App 里挨个查价，告诉你哪个平台、哪家店、到手多少钱。</b></p>
 
@@ -18,10 +18,9 @@
 
 <p align="center">
   <img alt="macOS 15+" src="https://img.shields.io/badge/macOS-15%2B%20%C2%B7%20iPhone%20%E9%95%9C%E5%83%8F-111?style=flat-square&logo=apple&logoColor=white">
-  <img alt="TB JD TM PDD" src="https://img.shields.io/badge/%F0%9F%8D%91%20TB%20%C2%B7%20%F0%9F%90%B6%20JD%20%C2%B7%20%F0%9F%90%B1%20TM%20%C2%B7%20%F0%9F%94%AA%20PDD-FF4A1C?style=flat-square">
   <img alt="WorkBuddy" src="https://img.shields.io/badge/WorkBuddy-%E6%90%AD%E9%85%8D%E9%A3%8E%E5%91%B3%E6%9B%B4%E4%BD%B3-111?style=flat-square">
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/MIT-%E5%BC%80%E6%BA%90-111?style=flat-square"></a>
-  <a href="https://github.com/woniuniuniu/tb-jd-tm-pdd-saver-skill/stargazers"><img alt="Star" src="https://img.shields.io/github/stars/woniuniuniu/tb-jd-tm-pdd-saver-skill?style=flat-square&color=111&label=Star"></a>
+  <a href="https://github.com/woniuniuniu/snail-saver-skill/stargazers"><img alt="Star" src="https://img.shields.io/github/stars/woniuniuniu/snail-saver-skill?style=flat-square&color=111&label=Star"></a>
 </p>
 
 <br>
@@ -47,7 +46,7 @@
 把这个仓库的链接发给 WorkBuddy，跟它说「帮我安装这个 skill」。
 
 ```
-https://github.com/woniuniuniu/tb-jd-tm-pdd-saver-skill
+https://github.com/woniuniuniu/snail-saver-skill
 ```
 
 **② 连好手机**
@@ -155,14 +154,14 @@ Skill 免费。AI 助手本身调用模型的费用按你用的助手算。
 怕你买到假货、水货、港版。省钱的前提是买对东西。
 
 **App 改版之后不好用了？**
-欢迎提 [Issue](https://github.com/woniuniuniu/tb-jd-tm-pdd-saver-skill/issues) 或 PR。每个版本改了什么、踩过哪些坑，都写在 [更新记录](CHANGELOG.md) 里。
+欢迎提 [Issue](https://github.com/woniuniuniu/snail-saver-skill/issues) 或 PR。每个版本改了什么、踩过哪些坑，都写在 [更新记录](CHANGELOG.md) 里。
 
 <br>
 
 ## 文件
 
 ```text
-tb-jd-tm-pdd-saver-skill
+snail-saver-skill
 ├─ SKILL.md            # 给 AI 助手看的操作说明
 ├─ CHANGELOG.md        # 每个版本改了什么、踩过的坑
 └─ scripts/
